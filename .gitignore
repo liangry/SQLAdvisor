@@ -12,9 +12,14 @@ CMakeCache.txt
 CMakeFiles/
 Docs/
 VERSION.dep
+install_manifest.txt
 include/config.h
 include/my_config.h
 extra/comp_err
 extra/perror
 sql/gen_lex_hash
 sql/libsqlparser-debug.dylib
+sql/libsqlparser-debug.so
+sql/sql_yacc.cc
+sql/sql_yacc.h
+sqladvisor/sqladvisor
